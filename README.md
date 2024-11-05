@@ -3,8 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-rodrigues-demari-780b16252/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](COLOCAR-URL)
 
 
-<img height='180px' src="https://github-readme-stats.vercel.app/api?username=AlyssonDemari&show_icons=true&theme=dracula" alt="">
-<img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonDemari&layout=compact&theme=dracula" alt="">
+<img height='180px' src="https://github-readme-stats.vercel.app/api?username=AlyssonDemari&show_icons=true&theme=dracula" alt="">   <img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonDemari&layout=compact&theme=dracula" alt="">
 
 ## Tecnologias que uso no dia a dia 
 
